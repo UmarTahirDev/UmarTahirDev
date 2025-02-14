@@ -15,16 +15,16 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:umartahirofficial@gmail.com">
+  <a href="mailto:umartahirofficial@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/umar-tahir-8080bb29b/" >
+  <a href="https://www.linkedin.com/in/umar-tahir-8080bb29b/" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/923046690856?text=Hi%20Umar!%20I%20found%20you%20through%20your%20github%20and%20would%20love%20to%20connect." >
+  <a href="https://wa.me/923046690856?text=Hi%20Umar!%20I%20found%20you%20through%20your%20github%20and%20would%20love%20to%20connect." target="_blank" >
     <img src="https://img.shields.io/badge/Whatsapp-259b5a?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-    <a href="https://umartahir.vercel.app/" >
+    <a href="https://umartahir.vercel.app/" target="_blank" >
     <img src="https://img.shields.io/badge/Website-0A0921?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" />
   </a>
 </div>
